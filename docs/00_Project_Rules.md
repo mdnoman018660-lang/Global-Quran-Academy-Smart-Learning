@@ -725,3 +725,138 @@ The principle of "Minimum Required Permission" should always be followed.
 
 End of Part 6
 
+---
+
+# 31. Course Management Rules
+
+The platform shall provide structured course management for all learners.
+
+Initially, the following courses will be available:
+
+- Qaida
+- Ampara
+- Quran
+- Diniyat
+
+Future courses may be added without affecting existing student progress.
+
+Every course must have:
+
+- Course ID
+- Course Title
+- Course Description
+- Learning Objectives
+- Recommended Age Group
+- Total Levels
+- Total Lessons
+- Estimated Completion Time
+- Assessment Plan
+- Certificate Eligibility
+
+Courses may only be created or modified by the Admin.
+
+---
+
+# 32. Lesson Management Rules
+
+Lessons are the building blocks of every course.
+
+Every lesson must follow a consistent structure to ensure a smooth learning experience.
+
+Each lesson should include:
+
+- Lesson Number
+- Lesson Title
+- Learning Objective
+- Arabic Reading Practice
+- Pronunciation Practice
+- Islamic Knowledge
+- Adab and Akhlaq
+- Quran Verse (when applicable)
+- Daily Dua (when applicable)
+- Story or Example (when applicable)
+- Activity
+- Homework
+- Teacher Guide
+- Assessment
+
+Lessons must progress from easy to difficult.
+
+No lesson should introduce concepts beyond the learner's current level.
+
+---
+
+# 33. Certificate Rules
+
+Certificates recognize a student's successful completion of a course or level.
+
+Certificates will only be issued after:
+
+- Completing all required lessons
+- Passing the final assessment
+- Receiving teacher approval
+- Receiving admin approval (if required)
+
+Each certificate should contain:
+
+- Student Name
+- Course Name
+- Level Completed
+- Completion Date
+- Certificate ID
+- Teacher Name
+- Academy Name
+
+Every certificate must have a unique Certificate ID.
+
+Certificates should remain permanently accessible from the student's profile.
+
+---
+
+# 34. AI Learning Assistant Rules
+
+Artificial Intelligence is intended to support learning, not replace teachers.
+
+The AI Learning Assistant may help students by:
+
+- Explaining lesson instructions
+- Providing revision suggestions
+- Answering simple learning questions
+- Motivating students
+- Recommending revision plans
+
+The AI must never:
+
+- Replace teacher assessments
+- Approve level completion
+- Modify student progress
+- Provide Islamic rulings independently
+
+All Islamic educational content must remain under qualified human supervision.
+
+---
+
+# 35. Gamification Rules
+
+Learning should feel enjoyable and motivating.
+
+The platform may include:
+
+- Learning Points
+- Experience (XP)
+- Achievement Badges
+- Stars
+- Daily Learning Streaks
+- Weekly Challenges
+- Progress Bars
+- Reward Animations
+
+Rewards are designed to encourage consistency rather than competition.
+
+Students should never feel discouraged because of rankings.
+
+Positive motivation should always be prioritized.
+
+---
+
+End of Part 7
