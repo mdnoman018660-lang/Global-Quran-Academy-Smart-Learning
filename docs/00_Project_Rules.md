@@ -1,146 +1,110 @@
 # Global Quran Academy Smart Learning
 
-# Project Rules
+# 00. Project Rules
 
-Version: 1.0
+**Version:** 1.0.0
 
-Status: Active
+**Status:** Active
 
----
+**Document Type:** Master Project Policy
 
-# 1. Project Purpose
-
-This project aims to build a complete Quran Learning Management System (QLMS) that provides authentic, easy, enjoyable and technology-based Quran education for children, teenagers and adults.
+**Last Updated:** July 2026
 
 ---
 
-# 2. Core Principles
+# 1. Introduction
 
-- Quran and Sunnah based education
-- Child-friendly learning
-- Easy to understand
-- Step-by-step curriculum
-- Teacher supervised progress
-- High quality software
-- Secure student data
-- Continuous improvement
+Welcome to the official Project Rules of **Global Quran Academy Smart Learning (GQASL).**
 
----
+This document defines the standards, policies, development principles, educational philosophy, and workflow that every contributor must follow.
 
-# 3. Documentation Rules
+Every future document, curriculum, software module, database structure, mobile application, website, and learning content must comply with these rules.
 
-- Every major feature must have documentation.
-- Every document must contain version information.
-- Every update must be committed to GitHub.
-- No undocumented feature will be developed.
+This document is considered the constitution of the project.
 
 ---
 
-# 4. Curriculum Rules
+# 2. About This Project
 
-- Curriculum must be level based.
-- Every level must contain lessons.
-- Every lesson must have:
-  - Learning Objective
-  - Arabic Practice
-  - Islamic Knowledge
-  - Dua
-  - Quran Verse
-  - Activity
-  - Homework
-  - Assessment
-  - Teacher Guide
+Global Quran Academy Smart Learning is not only a mobile application.
 
----
+It is a complete Quran Learning Management System (QLMS) designed to provide authentic, enjoyable, structured, and technology-based Islamic education for learners of all ages.
 
-# 5. Teacher Rules
+The platform combines:
 
-- Teachers cannot register themselves.
-- Only Admin can create Teacher accounts.
-- Teachers can only access assigned students.
-- Teachers must approve level completion.
+- Smart Curriculum
+- Live Quran Classes
+- Teacher Management
+- Student Progress Tracking
+- Parent Communication
+- Assessment System
+- Certificate System
+- AI Assisted Learning
+- Modern Learning Experience
+
+The primary objective is to make Quran learning simple, engaging, and effective while maintaining authenticity and proper Islamic values.
 
 ---
 
-# 6. Student Rules
+# 3. Vision
 
-- Students cannot unlock the next level without teacher approval.
-- Students must complete all lessons before assessment.
-- Progress must be saved automatically.
+To become one of the world's leading digital Quran learning platforms by providing authentic Islamic education through modern technology.
 
 ---
 
-# 7. Parent Rules
+# 4. Mission
 
-Parents can:
+Our mission is to develop a smart learning ecosystem where every learner can study the Quran correctly, gradually, and confidently under qualified teachers.
 
-- Monitor progress
-- View attendance
-- View payments
-- Contact teachers
+Learning should be:
 
----
-
-# 8. Admin Rules
-
-Admin has full access to:
-
-- Students
-- Teachers
-- Parents
-- Courses
-- Curriculum
-- Payments
-- Reports
-- Certificates
+- Easy
+- Enjoyable
+- Structured
+- Authentic
+- Accessible
+- Affordable
 
 ---
 
-# 9. Coding Rules
+# 5. Core Values
 
-- Clean code
-- Reusable code
-- Secure authentication
-- Responsive UI
-- Proper documentation
+Every part of this project must follow these values.
 
----
+## Authenticity
 
-# 10. GitHub Rules
+All Islamic content must follow authentic Quran and Sunnah.
 
-- Use meaningful commit messages.
-- Never delete important files.
-- Keep project organized.
-- Every change must be committed.
+## Simplicity
 
----
+Children must be able to learn without fear or unnecessary pressure.
 
-# 11. Future Vision
+## Quality
 
-This platform will gradually support:
+Every lesson, screen, feature, and document must be carefully designed.
 
-- Bangla
-- English
-- Arabic
+## Respect
 
-Platforms:
+Teachers, students, and parents must communicate respectfully.
 
-- Android
-- iOS
-- Web
+## Continuous Improvement
 
-Future Features:
-
-- AI Teacher Assistant
-- AI Tajweed Checking
-- AI Progress Analysis
-- Smart Revision System
+The project will improve continuously based on feedback.
 
 ---
 
-Status: Approved
+# 6. Project Philosophy
 
-Version: 1.0
+This project follows the principle:
 
-Last Updated:
-July 2026
+"Small lessons, consistent practice, lifelong learning."
+
+Every lesson should be short.
+
+Every lesson should have a clear objective.
+
+Every lesson should motivate the learner to continue.
+
+---
+
+End of Part 1
