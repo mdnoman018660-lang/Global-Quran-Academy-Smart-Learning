@@ -215,3 +215,127 @@ The system will save each student's learning progress automatically.
 ---
 
 End of Part 2
+
+---
+
+# 11. Parent Rules
+
+Parents are important partners in the learning journey.
+
+The system should allow parents to monitor and support their children's progress.
+
+## Parent Responsibilities
+
+Parents should:
+
+- Encourage regular class attendance.
+- Ensure homework is completed.
+- Communicate respectfully with teachers.
+- Pay course fees on time.
+- Motivate children to revise lessons daily.
+
+## Parent Permissions
+
+Parents can:
+
+- View student's progress.
+- View attendance records.
+- View homework status.
+- View assessment results.
+- Receive teacher feedback.
+- Receive payment reminders.
+- Contact assigned teachers.
+
+Parents cannot:
+
+- Modify lesson progress.
+- Approve level completion.
+- Change teacher assignments.
+- Access other students' information.
+
+---
+
+# 12. Admin Rules
+
+The Admin is the highest authority of the platform.
+
+The Admin is responsible for maintaining the academic quality, technical system, and overall management.
+
+## Admin Permissions
+
+Admin can:
+
+- Create teacher accounts.
+- Create student accounts.
+- Assign teachers.
+- Manage parents.
+- Create and edit courses.
+- Manage curriculum.
+- Approve certificates.
+- View reports.
+- Manage payments.
+- Manage subscriptions.
+- Manage announcements.
+- View complete system statistics.
+
+Admin has full access to all modules.
+
+---
+
+# 13. Payment Rules
+
+The payment system must be simple, secure, and transparent.
+
+## Supported Payment Methods
+
+Initially the platform will support:
+
+- bKash
+- Nagad
+
+Additional payment gateways may be added in the future.
+
+## Subscription Rules
+
+Students must choose:
+
+- Group Class
+- One-to-One Class
+
+After successful payment:
+
+- Student account becomes active.
+- Teacher assignment begins.
+- Live class access becomes available.
+
+If payment expires:
+
+- Lessons remain visible.
+- Live classes become locked.
+- Teacher communication becomes limited until renewal.
+
+---
+
+# 14. Free Trial Rules
+
+Every new student is eligible for one free trial class.
+
+The purpose of the trial class is to:
+
+- Assess the student's current level.
+- Understand learning ability.
+- Recommend the appropriate course.
+- Assign a suitable teacher.
+
+After assessment, the teacher will recommend:
+
+- Qaida
+- Ampara
+- Quran
+- Diniyat
+
+The student cannot skip this assessment before enrolling in a course.
+
+---
+
+End of Part 3
