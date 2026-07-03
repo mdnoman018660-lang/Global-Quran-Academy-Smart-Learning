@@ -860,3 +860,123 @@ Positive motivation should always be prioritized.
 ---
 
 End of Part 7
+
+---
+
+# 36. Islamic Content Verification Rules
+
+The authenticity of Islamic knowledge is the foundation of this platform.
+
+Every Islamic lesson, dua, hadith, Quran verse, translation, and educational content must be verified before publication.
+
+Only authentic and widely accepted Islamic sources should be used.
+
+If there is a difference of scholarly opinion, the content should be reviewed carefully by the Academic Committee before publication.
+
+The platform must avoid publishing weak or fabricated narrations unless clearly identified for educational purposes.
+
+---
+
+# 37. Academic Review Rules
+
+Every educational content must pass an academic review before becoming available to students.
+
+The review process includes:
+
+- Islamic authenticity review
+- Language review
+- Child-friendly content review
+- Curriculum consistency review
+- Technical formatting review
+
+No lesson should be published without completing this review process.
+
+---
+
+# 38. Content Update Rules
+
+Educational content should be reviewed regularly.
+
+Updates may be made to:
+
+- Correct mistakes
+- Improve explanations
+- Simplify language
+- Add learning activities
+- Improve teaching methods
+
+All major updates must be recorded in the project's version history.
+
+Student learning records must remain unaffected by content updates whenever possible.
+
+---
+
+# 39. AI Content Generation Rules
+
+Artificial Intelligence may assist in creating educational materials.
+
+However:
+
+- Every AI-generated content must be reviewed by qualified educators.
+- AI must not publish content automatically.
+- AI must never generate Islamic rulings independently.
+- AI should only assist in drafting, organizing, and simplifying educational materials.
+
+Final approval always belongs to authorized human reviewers.
+
+---
+
+# 40. Academic Committee Rules
+
+The Academic Committee is responsible for maintaining educational quality.
+
+Responsibilities include:
+
+- Reviewing curriculum
+- Verifying Islamic content
+- Approving new lessons
+- Approving assessments
+- Reviewing translations
+- Reviewing teacher guidelines
+
+The committee may request revisions before approving any educational material.
+
+---
+
+# 41. Language Policy
+
+The platform is designed for multilingual learning.
+
+Development will follow this order:
+
+Phase 1:
+- Bangla
+
+Phase 2:
+- English
+
+Phase 3:
+- Arabic
+
+All translations should preserve the original educational meaning and Islamic accuracy.
+
+---
+
+# 42. Accessibility Rules
+
+The platform should be easy to use for learners of different ages and abilities.
+
+The application should provide:
+
+- Large and readable text
+- Clear navigation
+- Simple language
+- Child-friendly interface
+- Audio support where appropriate
+- Visual learning support
+
+Learning should remain comfortable for every student.
+
+---
+
+End of Part 8
