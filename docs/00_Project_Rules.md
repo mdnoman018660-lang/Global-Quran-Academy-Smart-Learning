@@ -455,3 +455,132 @@ These records will remain permanently in the student's profile.
 
 End of Part 4
 
+---
+
+# 19. Homework Rules
+
+Homework is an essential part of the learning process.
+
+Every lesson should include simple and achievable homework that helps students revise what they learned in class.
+
+## Homework Principles
+
+Homework should:
+
+- Match the lesson objective.
+- Be appropriate for the student's age.
+- Be easy to understand.
+- Encourage independent practice.
+- Take only a reasonable amount of time.
+
+## Homework Types
+
+Homework may include:
+
+- Arabic letter practice
+- Reading practice
+- Memorizing duas
+- Quran recitation
+- Revision of previous lessons
+- Oral practice with parents
+
+Teachers should review homework before starting the next lesson.
+
+The system will store homework completion records.
+
+---
+
+# 20. Attendance Rules
+
+Attendance is important for measuring learning consistency.
+
+Every live class should record attendance automatically.
+
+Attendance Status
+
+- Present
+- Late
+- Absent
+- Excused
+
+Teachers may also add attendance remarks.
+
+Parents should be notified when a student is absent repeatedly.
+
+The system should generate monthly attendance reports.
+
+---
+
+# 21. Communication Rules
+
+Communication inside the platform must remain respectful, professional, and Islamic.
+
+Communication may occur between:
+
+- Teacher and Student
+- Teacher and Parent
+- Admin and Teacher
+- Admin and Student
+- Admin and Parent
+
+Users should never use offensive, abusive, or inappropriate language.
+
+Messages should relate only to educational matters.
+
+The system should maintain message history for future reference.
+
+---
+
+# 22. Notification Rules
+
+The system should notify users automatically.
+
+Students should receive notifications for:
+
+- Upcoming classes
+- Homework
+- Assessments
+- Subscription expiry
+- Announcements
+
+Teachers should receive notifications for:
+
+- New student assignment
+- Upcoming classes
+- Homework review
+- Parent messages
+- Administrative announcements
+
+Parents should receive notifications for:
+
+- Attendance
+- Homework
+- Progress updates
+- Payment reminders
+- Teacher feedback
+
+Notifications should be clear, timely, and easy to understand.
+
+---
+
+# 23. Progress Tracking Rules
+
+Every student's learning journey must be recorded.
+
+The system should track:
+
+- Completed lessons
+- Completed levels
+- Attendance
+- Homework
+- Assessments
+- Quran reading progress
+- Memorization progress
+- Teacher remarks
+
+Progress reports should be available for students, parents, teachers, and administrators according to their permissions.
+
+---
+
+End of Part 5
+
