@@ -584,3 +584,144 @@ Progress reports should be available for students, parents, teachers, and admini
 
 End of Part 5
 
+---
+
+# 24. User Account Rules
+
+Every user must have a unique account.
+
+The platform supports the following account types:
+
+- Student
+- Parent
+- Teacher
+- Admin
+
+Each account must have a unique User ID.
+
+A user cannot create multiple accounts using the same phone number or email address.
+
+Every account must contain accurate and updated information.
+
+---
+
+# 25. Authentication Rules
+
+Every user must log in securely.
+
+Supported login methods:
+
+- Mobile Number
+- Email Address
+
+Future support:
+
+- Google Login
+- Apple Login
+
+Users must keep their login credentials confidential.
+
+The system should automatically log out inactive users after a certain period.
+
+---
+
+# 26. Password Policy
+
+Passwords should be strong and secure.
+
+Minimum requirements:
+
+- At least 8 characters
+- Combination of letters and numbers
+- Special characters are recommended
+
+Passwords must never be stored in plain text.
+
+Users should be able to reset passwords securely.
+
+---
+
+# 27. Privacy Rules
+
+User privacy is one of the highest priorities of this platform.
+
+The system must protect:
+
+- Personal Information
+- Learning Records
+- Payment Information
+- Assessment Results
+- Communication History
+
+Student information must never be shared with unauthorized users.
+
+Only authorized users may access personal data.
+
+---
+
+# 28. Data Security Rules
+
+The system must protect all data from unauthorized access.
+
+Security measures should include:
+
+- Secure Authentication
+- Encrypted Passwords
+- Secure Database
+- HTTPS Connection
+- Access Control
+- Activity Logging
+
+Every important action should be recorded in system logs.
+
+---
+
+# 29. Backup and Recovery Rules
+
+The system should perform regular backups.
+
+Backups should include:
+
+- Student Records
+- Teacher Records
+- Curriculum
+- Lessons
+- Homework
+- Attendance
+- Assessments
+- Payments
+
+Backup files should be stored securely.
+
+The system should support data recovery in case of failure.
+
+---
+
+# 30. User Permissions
+
+Every user can access only the features allowed for their role.
+
+Student:
+
+- Own profile
+- Own lessons
+- Own progress
+
+Parent:
+
+- Child's information only
+
+Teacher:
+
+- Assigned students only
+
+Admin:
+
+- Full system access
+
+The principle of "Minimum Required Permission" should always be followed.
+
+---
+
+End of Part 6
+
