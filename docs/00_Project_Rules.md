@@ -980,3 +980,133 @@ Learning should remain comfortable for every student.
 ---
 
 End of Part 8
+
+---
+
+# 43. Software Quality Assurance Rules
+
+Quality is a mandatory requirement for every part of the system.
+
+Every feature must be tested before it becomes available to users.
+
+Quality assurance includes:
+
+- Functional Testing
+- UI Testing
+- Performance Testing
+- Security Testing
+- Compatibility Testing
+- User Acceptance Testing (UAT)
+
+No unfinished feature should be released to production.
+
+---
+
+# 44. Performance Rules
+
+The application should provide a fast and smooth user experience.
+
+Performance goals include:
+
+- Fast application startup
+- Fast page loading
+- Responsive user interface
+- Efficient database queries
+- Low bandwidth usage
+- Stable live classes
+
+The system should perform well even on low-end Android devices and slower internet connections.
+
+---
+
+# 45. Error Handling Rules
+
+Errors should never confuse users.
+
+Whenever an error occurs, the application should:
+
+- Display a clear and friendly message.
+- Explain what happened.
+- Suggest possible solutions.
+- Allow users to try again.
+
+System errors should be recorded automatically for future analysis.
+
+Sensitive technical details must never be shown to users.
+
+---
+
+# 46. Testing Rules
+
+Every new feature must be tested before release.
+
+Testing should include:
+
+- Unit Testing
+- Integration Testing
+- System Testing
+- User Acceptance Testing (UAT)
+
+Critical features such as:
+
+- Login
+- Payments
+- Live Classes
+- Student Progress
+- Teacher Approval
+
+must receive additional testing before deployment.
+
+---
+
+# 47. Deployment Rules
+
+Only stable versions may be released.
+
+Every release should include:
+
+- Version Number
+- Release Date
+- Change Log
+- Bug Fixes
+- New Features
+
+Production deployment should only occur after successful testing and approval.
+
+---
+
+# 48. Maintenance Rules
+
+The platform requires continuous maintenance.
+
+Maintenance activities include:
+
+- Bug Fixes
+- Security Updates
+- Performance Improvements
+- Curriculum Updates
+- Server Monitoring
+- Database Optimization
+
+Scheduled maintenance should be announced to users in advance whenever possible.
+
+---
+
+# 49. Monitoring and Analytics Rules
+
+The platform should collect anonymous system analytics to improve performance and user experience.
+
+Analytics may include:
+
+- Active Users
+- Course Completion Rate
+- Lesson Completion Rate
+- Attendance Statistics
+- Application Performance
+- Crash Reports
+
+Personal learning data must remain private and protected.
+
+---
+
+End of Part 9
