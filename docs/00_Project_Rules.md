@@ -108,3 +108,110 @@ Every lesson should motivate the learner to continue.
 ---
 
 End of Part 1
+---
+
+# 7. Documentation Rules
+
+Documentation is one of the most important parts of this project.
+
+Every feature, module, lesson, database structure, API, and design must be documented before development begins.
+
+## Documentation Standards
+
+Every document should include:
+
+- Title
+- Version
+- Status
+- Author
+- Last Updated
+- Purpose
+- Scope
+- Description
+
+Every document must use clear and professional language.
+
+Major changes must be committed to GitHub.
+
+No feature should be developed without documentation.
+
+---
+
+# 8. Curriculum Development Rules
+
+The curriculum is the heart of this project.
+
+Every lesson must be educationally effective, Islamically authentic, and suitable for the learner's age.
+
+## General Rules
+
+Every lesson must have:
+
+- Lesson Number
+- Lesson Title
+- Learning Objective
+- Arabic Practice
+- Pronunciation Practice
+- Islamic Knowledge
+- Daily Dua
+- Quran Verse
+- Moral Education (Adab & Akhlaq)
+- Activity
+- Homework
+- Teacher Guide
+- Assessment
+
+Lessons should remain short and enjoyable.
+
+Students should feel success after every lesson.
+
+Learning must progress from easy to difficult.
+
+No unnecessary pressure should be placed on learners.
+
+---
+
+# 9. Teacher Rules
+
+Teachers are responsible for guiding students with kindness, patience, and sincerity.
+
+Every teacher must:
+
+- Follow the official curriculum.
+- Complete lessons in sequence.
+- Evaluate students honestly.
+- Encourage students positively.
+- Respect every learner.
+- Maintain proper Islamic etiquette.
+
+Teachers cannot:
+
+- Skip lessons without reason.
+- Unlock the next level without assessment.
+- Access students who are not assigned to them.
+
+Only Admin can assign or remove students from a teacher.
+
+---
+
+# 10. Student Rules
+
+Students are expected to learn consistently and respectfully.
+
+Every student should:
+
+- Attend classes regularly.
+- Complete practice activities.
+- Memorize assigned duas.
+- Revise previous lessons.
+- Respect teachers and classmates.
+
+Students cannot unlock the next level automatically.
+
+Teacher approval is mandatory for every level completion.
+
+The system will save each student's learning progress automatically.
+
+---
+
+End of Part 2
