@@ -339,3 +339,119 @@ The student cannot skip this assessment before enrolling in a course.
 ---
 
 End of Part 3
+
+---
+
+# 15. Live Class Rules
+
+Live classes are one of the core services of Global Quran Academy Smart Learning.
+
+The platform must provide a simple, secure, and distraction-free live learning environment.
+
+## Live Class Principles
+
+- Every class must start on time.
+- Every class must end on time.
+- Students should join with their registered account only.
+- Teachers should maintain Islamic manners throughout the class.
+- Parents may observe children's classes when necessary.
+
+## Live Class Features
+
+The system should support:
+
+- Google Meet integration
+- Zoom integration
+- Future built-in live classroom
+- Class reminders
+- Attendance recording
+- Class notes
+- Homework assignment
+
+Students should be able to join the class directly from the application.
+
+---
+
+# 16. Teacher Assignment Rules
+
+Every student must have an assigned teacher.
+
+Teacher assignment will be performed only by the Admin.
+
+Students may choose:
+
+- Male Teacher
+- Female Teacher
+
+according to their preference and course availability.
+
+Teacher assignment should consider:
+
+- Course
+- Level
+- Schedule
+- Language
+- Gender Preference
+
+Teachers cannot assign students to themselves.
+
+Teachers cannot remove assigned students.
+
+Only Admin has permission to change teacher assignments.
+
+---
+
+# 17. Assessment Rules
+
+Assessment is required before a student can move to the next level.
+
+Every assessment should evaluate:
+
+- Reading Accuracy
+- Pronunciation
+- Tajweed
+- Memorization
+- Understanding
+- Lesson Completion
+
+Assessment Types
+
+- Oral Assessment
+- Practical Assessment
+- Written Assessment (where applicable)
+
+Teacher should provide constructive feedback after every assessment.
+
+Students who do not meet the required standard should receive additional practice before reassessment.
+
+---
+
+# 18. Level Completion Rules
+
+Every level must end with a final evaluation.
+
+A student can complete a level only if:
+
+- All lessons are completed.
+- Homework is completed.
+- Required duas are memorized.
+- Quran recitation meets the required standard.
+- Teacher approves the level.
+
+The system must never unlock the next level automatically.
+
+Teacher approval is mandatory.
+
+The system will record:
+
+- Completion Date
+- Teacher Name
+- Student Performance
+- Assessment Result
+
+These records will remain permanently in the student's profile.
+
+---
+
+End of Part 4
+
